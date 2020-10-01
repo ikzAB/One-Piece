@@ -1,0 +1,21 @@
+body {
+
+background-image: url("one piece.jpg");
+
+
+
+}
+
+h1 {
+	font-size: 60px ;
+	font-family: 'Brush Script MT', cursive;
+	color: yellow;
+	
+}
+
+
+h2 {
+	font-size: 40px ;
+	font-family: 'Brush Script MT', cursive;
+	color: yellow;
+}
